@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا قمر ليلي ونور العيون
+> في هواك قلبي دايم مجنون
+> نار الشوق بتكوي الوجدان
+> خليك معايا في كل مكان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
