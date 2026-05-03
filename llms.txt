@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Seketna El Hob |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 28, 2026 |
+| Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/seketna-el-hob/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا قمر ليلي ونور العيون
+> في هواك قلبي دايم مجنون
+> نار الشوق بتكوي الوجدان
+> خليك معايا في كل مكان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
